@@ -60,5 +60,9 @@ public class MainActivity extends AppCompatActivity {
 
             j=j+5;
 
+            //New COMMENT
+
+            String a ="Amila";
+
         }
 }
